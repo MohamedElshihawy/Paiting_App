@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paintish1</string>
+    <string name="brush_size">Brush Size</string>
+    <string name="undo_changes">Undo Changes</string>
+    <string name="redo_changes">Redo Changes</string>
+    <string name="color_picker">Color Picker</string>
+    <string name="save_image">Save Image</string>
+    <string name="clear_clipboard">Clear Clipboard</string>
+    <string name="choose_stroke_size">choose Stroke Size</string>
+</resources>
